@@ -1,0 +1,22 @@
+[
+	{
+		"icone": "img/cursos/laptop.png",
+		"nome": "Pensamento Computacional",
+		"descricao": "O curso consiste em uma coleção de atividades desenvolvidas com o objetivo de ensinar e estimular o desenvolvimento de fundamentos do pensamento computacional nas crianças. Incentivando assim a criatividade para a resolução de problemas, a interação, o trabalho colaborativo e a autonomia em relação ao uso do computador como forma de empoderamento."
+	},
+	{
+		"icone": "img/cursos/robot.png",
+		"nome": "Robótica",
+		"descricao": "O curso oportunizará o aprendizado de conceitos de robótica que auxiliarão os participantes em outros componentes curriculares e que também poderão contribuir para o desenvolvimento de habilidades relevantes para o futuro profissional, que deles exigirá capacidade de inovação e produtividade, além de estimular a inteligência emocional, a interação, a colaboração, o respeito mútuo e o espírito de equipe."
+	},
+	{
+		"icone": "img/cursos/gamepad-variant.png",
+		"nome": "Gamificação (Criação de jogos digitais)",
+		"descricao": "O curso consiste em aplicar fundamentos computacionais, lógica matemática, método PBL, incorporados a criação de jogos de maneira lúdica. O curso foca na capacidade dos estudantes e na sua criatividade incentivando-os a desenvolver jogos digitais."
+	},
+	{
+		"icone": "img/cursos/printer-3d.png",
+		"nome": "Modelagem e Impressão 3D",
+		"descricao": "O curso de Modelagem e Impressão 3D é voltado para desenvolver aspectos computacionais de forma lúdica, promovendo a iteração entre as crianças e os dispositivos utilizados, e visando difundir o conteúdos de artes e impressoras 3D de forma transversal. Tendo como finalidade o manuseio e aplicação das ferramentas para a realização do processo de impressão 3D e transmitir os conceitos básicos sobre este processo."
+	}
+]
