@@ -45,22 +45,10 @@
 		"foto": "img/equipe/eloy.jpg"
 	},
 	{
-		"nome": "Diego Dimatteu",
-		"funcao": "Professor do curso de Robótica",
-		"descricao": "Sou graduando em Tecnologia em Automação Industrial e tenho um grande interesse na área de robótica. Participo do Laboratório de Inovação e Desenvolvimento Sócio-educacional (LIDS), Projeto de Extensão na área de robótica interdisciplinar na educação e sou membro do ramo estudantil IEEE no IFB. Futuramente pretendo me graduar no curso de Ciências da Computação e ingressar nessa área profissionalmente.",
-		"foto": "img/equipe/jimmy.jpeg"
-	},
-	{
 		"nome": "Abel Araújo",
 		"funcao": "Professor do curso de Pensamento Computacional",
 		"descricao": "Atualmente estudante de Licenciatura em Computação. Tem experiência na área de educação, desenvolvimento mobile e projetos com ênfase em educação inclusiva e tecnológica.",
 		"foto": "img/equipe/abel.jpg"
-	},
-	{
-		"nome": "Iran Carlos de Sousa",
-		"funcao": "Professor do curso de Robótica",
-		"descricao": "Cursando Tecnologia em Automação Industrial no Instituto Federal de Brasília com habilidades na área de eletrônica e produtos tecnológicos; em eletrônica de bancada, estação de retrabalho,circuitos SMD e com arduino e seus periféricos.",
-		"foto": "img/equipe/iran.png"
 	},
 	{
 		"nome": "Luiz Eduardo Ximenes",
@@ -85,10 +73,4 @@
 		"funcao": "Auxiliar",
 		"foto": "img/equipe/burgues.jpg"
 	},
-	{
-		"nome": "Matheus de Araújo",
-		"funcao": "Professor do curso de Pensamento Computacional",
-		"descricao": "Sou estudante de bacharelado em Ciências da Computação no IFB campus Taguatinga. Sou estagiário no TCU como desenvolvedor de sistemas APEX e gestão de banco de dados Oracle. Possuo experiência em sala de aula dando aulas de pensamento computacional para crianças, visando um aprimoramento em diversas áreas do conhecimento do estudante, tal interesse gerou um PIBIC com o intuito de estudar a relação entre o ensino de lógica de programação e o aprendizado de matemática.",
-		"foto": "img/equipe/matheus.png"
-	}
 ]
