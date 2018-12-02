@@ -43,34 +43,5 @@
 		"funcao": "Professor do curso de Gameficação - Construção de Jogos Digitais",
 		"descricao": "Gosto de trabalhar em grupo e dialogar com pessoas. Também tenho enterece em práticas de ensino, pois acredito que o melhor jeito de aprender muito sobre algo é ensinando a outras pessoas.",
 		"foto": "img/equipe/eloy.jpg"
-	},
-	{
-		"nome": "Abel Araújo",
-		"funcao": "Professor do curso de Pensamento Computacional",
-		"descricao": "Atualmente estudante de Licenciatura em Computação. Tem experiência na área de educação, desenvolvimento mobile e projetos com ênfase em educação inclusiva e tecnológica.",
-		"foto": "img/equipe/abel.jpg"
-	},
-	{
-		"nome": "Luiz Eduardo Ximenes",
-		"funcao": "Professor do curso de Gameficação - Construção de Jogos Digitais",
-		"descricao": "Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília e curso Licenciatura em Ciência da Computação no Instituto Federal de Brasília. Possuo experiência na área de Programação, Circuitos, Manutenção e Redes de Computadores. Comecei minha jornada na área da Tecnologia da Informação ainda na oitava série do ensino fundamental ao assistir cursos de logica de computadores, programação em C e programação orientada a objetos na Escola Técnica de Brasília.",
-		"foto": "img/equipe/luizXimenes.jpg",
-		"link": "http://ximenes.tk"
-	},
-	{
-		"nome": "Thais Lorrane Gomes",
-		"funcao": "Professora do curso de Robótica",
-		"descricao": "Cursando Tecnologia em Automação Industrial no Instituto Federal de Brasília. Amo fazer projetos de interiores no autocad ou sweet home 3D nas horas vagas, sou uma pessoa calma e detalhista.",
-		"foto": "img/equipe/thais.jpg"
-	},
-	{
-		"nome": "Jailson Rodrigues",
-		"funcao": "Prpfessor do curso Modelagem e Impressão 3D",
-		"foto": "img/equipe/jailson.jpg"
-	},
-	{
-		"nome": "Lucas Vitor",
-		"funcao": "Auxiliar",
-		"foto": "img/equipe/burgues.jpg"
 	}
 ]
