@@ -15,7 +15,7 @@
 		"descricao": "O curso consiste em aplicar fundamentos computacionais, lógica matemática, método PBL, incorporados a criação de jogos de maneira lúdica. O curso foca na capacidade dos estudantes e na sua criatividade incentivando-os a desenvolver jogos digitais."
 	},
 	{
-		"icone": "img/cursos/printer-3d.png",
+		"icone": "img/cursos/printer-3d.svg",
 		"nome": "Modelagem e Impressão 3D",
 		"descricao": "O curso de Modelagem e Impressão 3D é voltado para desenvolver aspectos computacionais de forma lúdica, promovendo a iteração entre as crianças e os dispositivos utilizados, e visando difundir o conteúdos de artes e impressoras 3D de forma transversal. Tendo como finalidade o manuseio e aplicação das ferramentas para a realização do processo de impressão 3D e transmitir os conceitos básicos sobre este processo."
 	}
