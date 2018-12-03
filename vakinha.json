@@ -1,5 +1,11 @@
 {
 	"aberta": true,
 	"url": "http://vaka.me/jo9v2d",
-	"dataFestival": "08/12/2018"
+	"dataFestival": "08/12/2018",
+	"recompensas": {
+		"10": "Adesivo e bottom",
+		"20": "Adesivo, bottom e marcador de página",
+		"50": "Adesivo, bottom, marcador de página, caneta e copo oficial",
+		"100": "Adesivo, bottom, marcador de página, caneta, copo e camiseta oficial"
+	}
 }
