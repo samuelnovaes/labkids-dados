@@ -1,0 +1,22 @@
+[
+	{
+		"nome": "Missão",
+		"descricao": "Ampliar o domínio tecnológico no contexto social e empoderar nossos estudantes para que sejam construtores tecnológicos ao invés de simples usuários, estimulando as habilidades sociais, incluindo, trabalho em equipe, comunicação, tomada de decisões, solução de problemas e criatividade."
+	},
+	{
+		"nome": "Visão",
+		"descricao": "Agregar conhecimentos com melhora contínua de nossos estudantes com foco na qualidade da educação tecnológica e empreendedora."
+	},
+	{
+		"nome": "Valores",
+		"descricao": [
+			"Trabalho colaborativo",
+			"Comprometimento",
+			"Responsabilidade social",
+			"Integridade",
+			"Inovaçaõ",
+			"Sustentabilidade",
+			"Transparência"
+		]
+	}
+]
