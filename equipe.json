@@ -6,6 +6,12 @@
 		"foto": "img/equipe/Veruska3x4.jpg"
 	},
 	{
+		"nome": "Thiago Amorim"
+		"funcao": "Concelheiro e Equipe de Apoio",
+		"descricao": "Possui licenciatura em Computação pela Universidade de Brasília (2012) e especialização em Desenvolvimento em Software Livre pela Universidade Católica de Brasília (2014). Atuou como técnico de operações suporte infraestrutura data center na empresa Cobra Tecnologia, atualmente BB Tecnologia e Serviços. Atualmente é docente do Instituto Federal de Brasília atuando nas modalidades PROEJA, Técnico Subsequente, Ensino Médio Integrado e Licenciatura. Tem experiência na área de Educação, com ênfase em Educação em Informática.",
+		"foto": "img/equipe/thiago.jpg"
+	},
+	{
 		"nome": "Laureane de Sousa",
 		"funcao": "Diretora Geral e Coordenadora do curso de Robótica",
 		"descricao": "Sou amante da robótica e da tecnologia; entusiasta do software livre; defensora de uma educação democrática, livre, criativa e de qualidade para todos; ativista da real inclusão tecnológica em escolas públicas, para favorecer o uso da tecnologia como objeto de ensino. Atualmente sou estudante e bolsista PIBIC do Instituto Federal de Brasília. Possuo experiência na área de Educação, com ênfase no Ensino-aprendizagem, atuando principalmente nos seguintes temas: educação tecnológica, robótica e formação de professores.",
@@ -43,5 +49,11 @@
 		"funcao": "Professor do curso de Gameficação - Construção de Jogos Digitais",
 		"descricao": "Gosto de trabalhar em grupo e dialogar com pessoas. Também tenho enterece em práticas de ensino, pois acredito que o melhor jeito de aprender muito sobre algo é ensinando a outras pessoas.",
 		"foto": "img/equipe/eloy.jpg"
+	},
+	{
+		"nome": "Ruan",
+		"funcao": "Auxiliar e Equipe de Apoio",
+		"descricao": "",
+		"foto": "img/equipe/ruan.jpg"
 	}
 ]
