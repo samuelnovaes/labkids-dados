@@ -20,39 +20,50 @@
 	},
 	{
 		"nome": "Guilherme Rodrigues",
-		"funcao": "Diretor de Tecnologia e Coordenador do curso de Pensamento Computacional",
+		"funcao": "Diretor de Comunicação e Coordenador do curso de Pensamento Computacional",
 		"descricao": "Atualmente cursando Licenciatura em Computação pelo Instituto Federal de Brasília, possui curso técnico em Informática pelo Instituto Federal do Piauí. Aficionado por tecnologia e design.",
 		"foto": "img/equipe/gui.jpg",
 		"link": "http://lattes.cnpq.br/9568466772349693"
 	},
 	{
 		"nome": "Luiz Neves",
-		"funcao": "Coordenador do curso de Gameficação - Construção de Jogos Digitais",
+		"funcao": "Diretor de Tecnologia e Coordenador do curso de Desenvoltimento de Jogos Digitais",
 		"descricao": "Atualmente cursando Licenciatura em Computação pelo Instituto Federal de Brasília, Web designer com várias certificações na área e programador de jogos digitais. meu objetivo é lecionar e atuar no desenvolvimento web em geral, programação, design e criação de jogos digitais.",
 		"foto": "img/equipe/trap.jpg"
 	},
 	{
 		"nome": "Samuel Sena",
-		"funcao": "Professor do curso Pensamento Computacional",
+		"funcao": "Coordenador do curso de Desenvolvimento de Aplicativos para Celular",
 		"descricao": "Cursa Licenciatura em Computação no Instituto Federal de Brasília. É desenvolvedor web e entusiasta em tecnologia.",
 		"foto": "img/equipe/samuel.jpg",
 		"link": "http://samuelnovaes.ml"
 	},
-	{
-		"nome": "Leonardo Bastos",
-		"funcao": "Professor do curso Gameficação - Construção de Jogos Digitais",
-		"descricao": "Trabalho bem em equipe, consigo achar soluções fora da caixa, tendo assim uma boa solução de problemas e não sou de desistir fácil dos objetivos. A minha aspiração é estudar o bastante para ser bom o suficiente no que eu gosto para poder compartilhar meu conhecimento.",
-		"foto": "img/equipe/leonardo.jpg"
-	},
+	
 	{
 		"nome": "Eloy Guimarães",
-		"funcao": "Professor do curso de Gameficação - Construção de Jogos Digitais",
+		"funcao": "Professor do curso de Robótica,
 		"descricao": "Gosto de trabalhar em grupo e dialogar com pessoas. Também tenho enterece em práticas de ensino, pois acredito que o melhor jeito de aprender muito sobre algo é ensinando a outras pessoas.",
 		"foto": "img/equipe/eloy.jpg"
 	},
 	{
+		"nome": "Pedro Hartmann",
+		"funcao": "Professor do curso de Desenvoltimento de Jogos Digitais",
+		"foto": "img/equipe/pedro.jpg"
+	},
+	{
+		"nome": "Ana Rita",
+		"funcao": "Professor do curso de Pensamento Computacional",
+		"foto": "img/equipe/ana.jpg"
+	},
+	{
+		"nome": "Leonardo Bastos",
+		"funcao": "Professor do curso Desenvolvimento de Aplicativos para Celular",
+		"descricao": "Trabalho bem em equipe, consigo achar soluções fora da caixa, tendo assim uma boa solução de problemas e não sou de desistir fácil dos objetivos. A minha aspiração é estudar o bastante para ser bom o suficiente no que eu gosto para poder compartilhar meu conhecimento.",
+		"foto": "img/equipe/leonardo.jpg"
+	},
+	{
 		"nome": "Ruan",
-		"funcao": "Auxiliar e Equipe de Apoio",
+		"funcao": "Auxiliar e Equipe de Apoio ",
 		"foto": "img/equipe/ruan.jpg"
 	}
 ]
