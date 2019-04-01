@@ -7,12 +7,19 @@
     },
     {
         "nome": "Equipe",
-        "link": "",
+        "link": "/equipe",
         "ativo": true
     },
     {
         "nome": "resultados",
         "link": "link",
         "ativo": false
+    },
+    {
+        "nome": "Contato",
+        "link": "link",
+        "ativo": false
     }
+    
+    
 ]
