@@ -3,14 +3,16 @@
     {
         "nome": "Inicio",
         "link": "/",
-        "ativo": "true"
+        "ativo": true
     },
     {
         "nome": "Equipe",
-        "link": ""
+        "link": "",
+        "ativo": true
     },
     {
         "nome": "resultados",
-        "link": "link"
+        "link": "link",
+        "ativo": true
     }
 ]
