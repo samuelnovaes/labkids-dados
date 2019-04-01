@@ -3,23 +3,25 @@
     {
         "nome": "Inicio",
         "link": "/",
-        "ativo": true
+        "ativo": true,
+        "externo" false
     },
     {
         "nome": "Equipe",
         "link": "/equipe",
-        "ativo": true
+        "ativo": true,
+        "externo" false
     },
     {
-        "nome": "resultados",
+        "nome": "Resultados",
         "link": "link",
-        "ativo": false
+        "ativo": false,
+        "externo" false
     },
     {
         "nome": "Contato",
         "link": "/contato",
         "ativo": true
+        "externo" false,
     }
-    
-    
 ]
