@@ -17,8 +17,8 @@
     },
     {
         "nome": "Contato",
-        "link": "link",
-        "ativo": false
+        "link": "/contato",
+        "ativo": true
     }
     
     
