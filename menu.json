@@ -3,6 +3,7 @@
     {
         "nome": "Inicio",
         "link": "/"
+        "ativo": "true"
     },
     {
         "nome": "Equipe",
