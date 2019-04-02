@@ -5,6 +5,11 @@
         "ativo": true
     },
     {
+        "nome": "Inscrições",
+        "link": "/inscricoes",
+        "ativo": true
+    },
+    {
         "nome": "Resultado",
         "link": "http://google.com/",
         "ativo": false
