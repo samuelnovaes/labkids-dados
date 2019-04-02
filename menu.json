@@ -4,5 +4,20 @@
         "nome": "Inicio",
         "link": "/",
         "ativo": true
-    }
+    },
+    {
+        "nome": "Resultado",
+        "link": "http://google.com/",
+        "ativo": true
+    },
+    {
+        "nome": "Equipe",
+        "link": "/",
+        "ativo": true
+    },
+    {
+        "nome": "Contato",
+        "link": "/contato",
+        "ativo": true
+    },
 ]
