@@ -7,7 +7,7 @@
     {
         "nome": "Inscrições",
         "link": "/inscricoes",
-        "ativo": true
+        "ativo": false
     },
     {
         "nome": "Resultado",
