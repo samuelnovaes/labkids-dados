@@ -1,4 +1,3 @@
-
 [
     {
         "nome": "Inicio",
@@ -11,6 +10,11 @@
         "ativo": true
     },
     {
+        "nome": "Lista de Interesse",
+        "link": "http://google.com/",
+        "ativo": true
+    },
+    {
         "nome": "Equipe",
         "link": "/",
         "ativo": true
@@ -19,5 +23,5 @@
         "nome": "Contato",
         "link": "/contato",
         "ativo": true
-    },
+    }
 ]
