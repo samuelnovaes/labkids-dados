@@ -12,8 +12,8 @@
     },
     {
         "nome": "Resultados",
-        "link": "link",
-        "ativo": false,
+        "link": "http://google.com",
+        "ativo": true
     },
     {
         "nome": "Contato",
