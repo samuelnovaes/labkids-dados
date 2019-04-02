@@ -7,7 +7,7 @@
     {
         "nome": "Resultado",
         "link": "http://google.com/",
-        "ativo": true
+        "ativo": false
     },
     {
         "nome": "Lista de Interesse",
@@ -16,7 +16,7 @@
     },
     {
         "nome": "Equipe",
-        "link": "/",
+        "link": "/equipe",
         "ativo": true
     },
     {
