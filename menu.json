@@ -10,6 +10,11 @@
         "ativo": false
     },
     {
+        "nome": "Edital",
+        "link": "https://samuelnovaes.github.io/labkids-dados/docs/edital.pdf",
+        "ativo": true
+    },
+    {
         "nome": "Sorteio de Reserva",
         "link": "https://samuelnovaes.github.io/labkids-dados/docs/reserva.pdf",
         "ativo": true
