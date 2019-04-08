@@ -20,6 +20,11 @@
         "ativo": true
     },
     {
+        "nome": "Galeria",
+        "link": "/galeria",
+        "ativo": true
+    },
+    {
         "nome": "Equipe",
         "link": "/equipe",
         "ativo": true
