@@ -3,6 +3,11 @@
         "nome": "Inicio",
         "link": "/",
         "ativo": true
+    },  
+    {
+        "nome": "Calendário 2019",
+        "link": "https://samuelnovaes.github.io/labkids-dados/docs/calendario.pdf",
+        "ativo": true
     },
     {
         "nome": "Resultado",
@@ -12,11 +17,6 @@
     {
         "nome": "Edital",
         "link": "https://samuelnovaes.github.io/labkids-dados/docs/edital.pdf",
-        "ativo": true
-    },
-    {
-        "nome": "Sorteio de Reserva",
-        "link": "https://samuelnovaes.github.io/labkids-dados/docs/reserva.pdf",
         "ativo": true
     },
     {
