@@ -12,6 +12,11 @@
     {
         "nome": "Edital",
         "link": "https://samuelnovaes.github.io/labkids-dados/docs/edital.pdf",
+        "ativo": true
+    },
+    {
+        "nome": "Lista de Remanescentes",
+        "link": "https://github.com/samuelnovaes/labkids-dados/blob/master/docs/reserva.pdf",
         "ativo": true   
     }
 ]
