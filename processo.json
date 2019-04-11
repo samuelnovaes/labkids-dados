@@ -5,13 +5,18 @@
         "ativo": true
     },
     {
-        "nome": "Edital",
-        "link": "https://samuelnovaes.github.io/labkids-dados/docs/edital.pdf",
+        "nome": "1ª Chamada",
+        "link": "https://samuelnovaes.github.io/labkids-dados/docs/1chamada.pdf",
         "ativo": true
     },
     {
-        "nome": "Edital",
-        "link": "https://samuelnovaes.github.io/labkids-dados/docs/edital.pdf",
+        "nome": "2ª Chamada",
+        "link": "https://samuelnovaes.github.io/labkids-dados/docs/2chamada.pdf",
+        "ativo": true
+    },
+    {
+        "nome": "3ª Chamada",
+        "link": "https://samuelnovaes.github.io/labkids-dados/docs/3chamada.pdf",
         "ativo": true
     },
     {
