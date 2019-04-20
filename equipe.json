@@ -27,7 +27,7 @@
 	},
 	{
 		"nome": "Luiz Neves",
-		"funcao": "Diretor de Tecnologia e Coordenador do curso de Desenvoltimento de Jogos Digitais",
+		"funcao": "Diretor de Tecnologia e Coordenador do curso de Desenvolvimento de Jogos Digitais",
 		"descricao": "Atualmente cursando Licenciatura em Computação pelo Instituto Federal de Brasília, Web designer com várias certificações na área e programador de jogos digitais. meu objetivo é lecionar e atuar no desenvolvimento web em geral, programação, design e criação de jogos digitais.",
 		"foto": "img/equipe/trap.jpg"
 	},
@@ -51,7 +51,7 @@
 	},
 	{
 		"nome": "Ana Rita",
-		"funcao": "Professor do curso de Pensamento Computacional",
+		"funcao": "Professora do curso de Pensamento Computacional",
 		"foto": "img/equipe/ana.jpg"
 	},
 	{
@@ -61,7 +61,7 @@
 		"foto": "img/equipe/leonardo.jpg"
 	},
 	{
-		"nome": "Ruan",
+		"nome": "Ruan Soares",
 		"funcao": "Auxiliar e Equipe de Apoio ",
 		"foto": "img/equipe/ruan.jpg"
 	}
