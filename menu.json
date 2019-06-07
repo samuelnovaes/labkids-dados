@@ -3,6 +3,11 @@
         "nome": "Inicio",
         "link": "/",
         "ativo": true
+    },
+    {
+        "nome": "Festival",
+        "link": "https://www.facebook.com/events/485525665518000/",
+        "ativo": true
     },  
     {
         "nome": "Calendário 2019",
