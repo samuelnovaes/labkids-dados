@@ -27,7 +27,7 @@
     {
         "nome": "Loja",
         "link": "/loja",
-        "ativo": false
+        "ativo": true
     },
     {
         "nome": "Galeria",
