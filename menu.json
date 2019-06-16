@@ -25,6 +25,11 @@
         "ativo": true
     },
     {
+        "nome": "Loja",
+        "link": "/loja",
+        "ativo": false
+    },
+    {
         "nome": "Galeria",
         "link": "/galeria",
         "ativo": true
