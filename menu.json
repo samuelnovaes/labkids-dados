@@ -7,7 +7,7 @@
     {
         "nome": "Festival",
         "link": "https://labkidscontato.wixsite.com/meusite",
-        "ativo": true
+        "ativo": false
     },  
     {
         "nome": "Calendário 2019",
@@ -22,12 +22,12 @@
     {
         "nome": "Processo 2019.1",
         "link": "/processo",
-        "ativo": true
+        "ativo": false
     },
     {
         "nome": "Loja",
         "link": "/loja",
-        "ativo": true
+        "ativo": false
     },
     {
         "nome": "Galeria",
